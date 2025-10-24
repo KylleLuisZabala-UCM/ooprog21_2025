@@ -16,6 +16,7 @@ public class DebugSix1 {
             ++day;
         }
 
-        keyboard.close(); // Optional: good practice to close Scanner
+        keyboard.close();
     }
 }
+
